@@ -16,3 +16,5 @@ During each turn, the agent has two possible actions: running the model or termi
 * Observations: The observation comprises the loss of the testing dataset at epoch 'n,' which should be less than the loss at epoch 'n-1.' 
 
 * Reward: Our primary goal is to maximize the accuracy of the test dataset.
+
+![RL_TBoosted_performance](https://github.com/MorillaLab/RL-TBoost/blob/main/Reinforcement_Learning_Model/RL-TBoost_performance.png)
