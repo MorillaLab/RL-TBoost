@@ -10,8 +10,8 @@ For instance, suppose we aim to train an agent for this model:
 
 During each turn, the agent has two possible actions: running the model or terminating the current round. The overarching objective is to ensure that the previous loss surpasses the new loss concerning the training set. This condition signifies the preservation of the dataset's shape. A representative environment for implementing this scenario is as follows:
 
-Actions: We define two actions, denoted as Action 0 (running the model) and Action 1 (terminating the current round). 
+```Actions: We define two actions, denoted as Action 0 (running the model) and Action 1 (terminating the current round). 
 
-Observations: The observation comprises the loss of the testing dataset at epoch 'n,' which should be less than the loss at epoch 'n-1.' 
+```Observations: The observation comprises the loss of the testing dataset at epoch 'n,' which should be less than the loss at epoch 'n-1.' 
 
-Reward: Our primary goal is to maximize the accuracy of the test dataset.
+```Reward: Our primary goal is to maximize the accuracy of the test dataset.
