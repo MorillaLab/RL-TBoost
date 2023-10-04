@@ -1,1 +1,0 @@
-The objective of this project is to develop a model for predicting the one-year mortality risk following pulmonary transplantation. Our dataset is sourced from Bichat Hospital in Paris and comprises information on 252 patients, with a class distribution of 189 alive and 63 deceased.
