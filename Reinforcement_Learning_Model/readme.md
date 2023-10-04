@@ -1,1 +1,1 @@
-dkdkd
+We created our own virtual environment using tensorflow. In the setup, the sate is used to analyse the accuracy of the model based a deep learning model. The deeplearning model is constructed associated with TDA. That is during the trainning and the testing of the model, we take into account the shape of the dataset. We are trying to discriminate different classes.
