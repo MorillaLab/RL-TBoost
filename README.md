@@ -1,4 +1,13 @@
 # RL-TBoost
+<p align="left">
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+    <img src="https://img.shields.io/badge/License-GNU_3.0-green" alt="">
+  </a>
+  <a href="https://doi.org/10.3390/math11244916">
+    <img src="https://img.shields.io/badge/Doi-10.3390/math11244916-blue" alt="">
+  </a>
+</p>
+
 Reinforcement Learning Enhanced by Topological Data Analysis (TDA) to predict Y1 risk of mortality after lung transplantation.
 
 
