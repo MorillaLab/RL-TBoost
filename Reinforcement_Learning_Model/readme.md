@@ -1,3 +1,3 @@
 We established a dedicated virtual environment utilising TensorFlow. In this configuration, the state is employed to assess the model's accuracy based on a deep learning architecture. The deep learning model is intricately linked with Topological Data Analysis (TDA). Consequently, throughout both the training and testing phases of the model, we consider the structural characteristics of the dataset. Our objective is to effectively discern between various classes.
 
-[!RL_TBoosted_learning_performance_visualisation](https://github.com/MorillaLab/RL-TBoost/blob/main/Reinforcement_Learning_Model/training_accuracy_animation.gif | width=100)
+[!RL_TBoosted_learning_performance_visualisation](https://github.com/MorillaLab/RL-TBoost/blob/main/Reinforcement_Learning_Model/training_accuracy_animation.gif)
