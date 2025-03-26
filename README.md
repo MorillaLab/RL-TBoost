@@ -1,12 +1,9 @@
 # RL-TBoost
-<p align="left">
-  <a href="https://choosealicense.com/licenses/gpl-3.0/">
-    <img src="https://img.shields.io/badge/License-GPLv3-green" alt="">
-  </a>
-  <a href="https://doi.org/10.3390/math11244916">
-    <img src="https://img.shields.io/badge/Doi-10.3390/math11244916-blue" alt="">
-  </a>
-</p>
+
+[![License](https://img.shields.io/badge/License-GPLv3-green)](https://choosealicense.com/licenses/gpl-3.0/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MorillaLab/TopoTransformers/)
+[![Doi](https://img.shields.io/badge/Doi-10.3390/math11244916-blue)](https://doi.org/10.3390/math11244916)
+
 
 Reinforcement Learning Enhanced by Topological Data Analysis (TDA) to predict Y1 risk of mortality after lung transplantation.
 
