@@ -37,6 +37,13 @@ This creates a training loop that is simultaneously guided by predictive perform
   <em>RL-TBoost training performance: topologically-guided RL loop preserves dataset shape across epochs.</em>
 </p>
 
+<p align="center">
+  <img src="Rfigures/rl_tboost_figure.png"
+       alt="RL-TBoost performance" width="820"/>
+  <br/>
+  <em>RL-TBoost training performance: topologically-guided RL loop preserves dataset shape across epochs.</em>
+</p>
+
 ---
 
 ## 🏗️ Architecture
