@@ -223,8 +223,6 @@ If you use RL-TBoost in your research, please cite:
 }
 ```
 
-> **Note:** The original README had a DOI badge pointing to an unrelated *Mathematics* paper (the Genetic-Bell DOI `10.3390/math11244916`) — removed here. The Colab badge was also linking to `TopoTransformers` — corrected.
-
 ---
 
 ## 🤝 Contributing
