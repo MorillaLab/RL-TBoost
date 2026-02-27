@@ -46,13 +46,13 @@ Clinical Dataset (lung transplant patients)
           │
           ▼
 ┌─────────────────────────┐
-│  Representation Learning │  ← Invariant multiscale TDA features
-│  (Topological Features)  │    (persistent homology, Betti numbers)
+│  Representation Learning│  ← Invariant multiscale TDA features
+│  (Topological Features) │    (persistent homology, Betti numbers)
 └─────────────┬───────────┘
               │
               ▼
 ┌─────────────────────────────────────────────┐
-│         Custom TensorFlow RL Environment     │
+│         Custom TensorFlow RL Environment    │
 │                                             │
 │  State:   model accuracy + TDA feature loss │
 │                                             │
@@ -67,9 +67,9 @@ Clinical Dataset (lung transplant patients)
               │
               ▼
 ┌─────────────────────────┐
-│  Deep Learning Model     │
-│  (TDA-enhanced)          │
-│  Y1 mortality prediction │
+│  Deep Learning Model    │
+│  (TDA-enhanced)         │
+│  Y1 mortality prediction│
 └─────────────────────────┘
               │
               ▼
