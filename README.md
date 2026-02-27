@@ -32,7 +32,7 @@ This creates a training loop that is simultaneously guided by predictive perform
 
 <p align="center">
   <img src="Reinforcement_Learning_Model/RL-TBoost_performance.png"
-       alt="RL-TBoost performance" width="620"/>
+       alt="RL-TBoost performance" width="420"/>
   <br/>
   <em>RL-TBoost training performance: topologically-guided RL loop preserves dataset shape across epochs.</em>
 </p>
