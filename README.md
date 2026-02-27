@@ -32,13 +32,13 @@ This creates a training loop that is simultaneously guided by predictive perform
 
 <p align="center">
   <img src="Reinforcement_Learning_Model/RL-TBoost_performance.png"
-       alt="RL-TBoost performance" width="820"/>
+       alt="RL-TBoost performance" width="620"/>
   <br/>
   <em>RL-TBoost training performance: topologically-guided RL loop preserves dataset shape across epochs.</em>
 </p>
 
 <p align="center">
-  <img src="figures/rl_tboost_figure.png"
+  <img src="figures/rl_tboost_figure_white.png"
        alt="RL-TBoost performance" width="820"/>
   <br/>
   <em>Panel A — The RL training loop with train/test loss curves and the topological shape-preservation decision markers: green circles = shape preserved (agent continues), red crosses = shape violated (agent stops). This is the core novel idea made visual.
