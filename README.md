@@ -41,7 +41,10 @@ This creates a training loop that is simultaneously guided by predictive perform
   <img src="figures/rl_tboost_figure.png"
        alt="RL-TBoost performance" width="820"/>
   <br/>
-  <em>RL-TBoost training performance: topologically-guided RL loop preserves dataset shape across epochs.</em>
+  <em>Panel A — The RL training loop with train/test loss curves and the topological shape-preservation decision markers: green circles = shape preserved (agent continues), red crosses = shape violated (agent stops). This is the core novel idea made visual.
+Panel B — Persistence diagram showing H₀ (violet, connected components) and H₁ (rose, loops) features — the TDA "state" fed to the agent
+Panel C — ROC curves comparing RL-TBoost against two baselines, with AUC values
+Panel D — Kaplan-Meier-style Y1 survival curves by risk group (low vs high), with 95% CI shading and survival % at day 365.</em>
 </p>
 
 ---
